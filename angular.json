@@ -28,9 +28,32 @@
               "src/assets"
             ],
             "styles": [
+              "src/assets/css/bootstrap.min.css",
+              "src/assets/css/all.min.css",
+              "src/assets/css/animate.css",
+              "src/assets/css/nice-select.css",
+              "src/assets/css/owl.min.css",
+              "src/assets/css/jquery-ui.min.css",
+              "src/assets/css/magnific-popup.css",
+              "src/assets/css/flaticon.css",
+              "src/assets/css/main.css",
               "src/styles.scss"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/jquery-3.3.1.min.js",
+              "src/assets/js/modernizr-3.6.0.min.js",
+              "src/assets/js/plugins.js",
+              "src/assets/js/bootstrap.min.js",
+              "src/assets/js/magnific-popup.min.js",
+              "src/assets/js/jquery-ui.min.js",
+              "src/assets/js/wow.min.js",
+              "src/assets/js/waypoints.js",
+              "src/assets/js/nice-select.js",
+              "src/assets/js/owl.min.js",
+              "src/assets/js/counterup.min.js",
+              "src/assets/js/paroller.js",
+              "src/assets/js/main.js"
+            ]
           },
           "configurations": {
             "production": {
