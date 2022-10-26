@@ -14,8 +14,12 @@ https://evadrive.netlify.app/
 >jeanpaulwebb@gmail.com
 
 ## Protótipos
-![Protótipo 1](https://raw.githubusercontent.com/JeanPaulll/landing-page-evadrive/master/src/assets/prototipos/mobile1.png.png)
-![Protótipo 1](https://raw.githubusercontent.com/JeanPaulll/landing-page-evadrive/master/src/assets/prototipos/mobile2.png.png)
-![Protótipo 1](https://raw.githubusercontent.com/JeanPaulll/landing-page-evadrive/master/src/assets/prototipos/mobile3.png.png)
-![Protótipo 1](https://raw.githubusercontent.com/JeanPaulll/landing-page-evadrive/master/src/assets/prototipos/mobile4.png.png)
-![Protótipo 1](https://raw.githubusercontent.com/JeanPaulll/landing-page-evadrive/master/src/assets/prototipos/mobile5.png.png)
+![Protótipo 1](https://raw.githubusercontent.com/JeanPaulll/landing-page-evadrive/master/src/assets/prototipos/mobile1.png)
+
+![Protótipo 1](https://raw.githubusercontent.com/JeanPaulll/landing-page-evadrive/master/src/assets/prototipos/mobile2.png)
+
+![Protótipo 1](https://raw.githubusercontent.com/JeanPaulll/landing-page-evadrive/master/src/assets/prototipos/mobile3.png)
+
+![Protótipo 1](https://raw.githubusercontent.com/JeanPaulll/landing-page-evadrive/master/src/assets/prototipos/mobile4.png)
+
+![Protótipo 1](https://raw.githubusercontent.com/JeanPaulll/landing-page-evadrive/master/src/assets/prototipos/mobile5.png)
